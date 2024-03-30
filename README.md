@@ -1,3 +1,3 @@
 # resume
 
-Updated resume for data jobs.  Last updated June 2023.
+Updated resume for data jobs.  Last updated March 2024.
